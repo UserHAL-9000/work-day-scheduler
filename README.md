@@ -39,4 +39,4 @@ The following animation demonstrates the application functionality:
 
 ## Web Application 
 
-dkfjdskvnskdnvksdnvksdnvks
+https://userhal-9000.github.io/work-day-scheduler/
